@@ -1,1 +1,15 @@
 /* styles go here */
+.fieldset {
+  margin-bottom: 20px;
+}
+
+.inputBlocks {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.question {
+  display: inline-block;
+  margin: 0;
+  margin-bottom: 10px;
+}
